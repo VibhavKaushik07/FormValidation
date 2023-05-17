@@ -1,0 +1,65 @@
+.page{
+    
+    margin-left: 10px;
+    margin-top: -29px ;
+    text-align: left;
+    font-size: 24px;
+    padding: 25px;
+  }
+
+div{
+  padding-left: 32px;
+    align-self: justify;
+    height: 60px;
+  }
+  input[type="text"] {
+    width: 20%;
+    height: 20px;
+    font-size: 14px;
+    margin-bottom: 10px;
+    
+  }
+  input[type="email"] {
+    width: 20%;
+    height: 20px;
+    font-size: 14px;
+    margin-bottom: 10px;
+    
+  
+  }
+  input[type="tel"] {
+    width: 20%;
+    height: 20px;
+    font-size: 14px;
+    margin-bottom: 10px;
+    
+  }
+  input[type="password"] {
+    width: 20%;
+    height: 20px;
+    font-size: 14px;
+    margin-bottom: 10px;
+    
+  
+  }
+  input[type="confirmpassword"] {
+    width: 20%;
+    height: 20px;
+    font-size: 14px;
+    margin-bottom: 10px;
+    
+  }
+  
+  label{
+    width:200px;
+    display:inline-block;
+  }
+  body{
+      background-image: url('https://images.unsplash.com/photo-1501696461415-6bd6660c6742?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8NHx8fGVufDB8fHx8&w=1000&q=80');
+    background-size: 100% 650%;
+        background-repeat: no-repeat;
+      }
+
+  
+
+  
